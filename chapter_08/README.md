@@ -117,6 +117,9 @@ Output
 Run the code and check its output −
 
 Enter a string:
+
 Hello
+
 You entered:
+
 Hello
