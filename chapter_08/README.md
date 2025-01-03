@@ -63,7 +63,7 @@ Hello World
 ---
 ## String Input Using scanf()
 Declaring a null-terminated string causes difficulty if you want to ask the user to input a string. 
-You can accept one character at a time to store in each subscript of an array, with the help of a for loop −
+You can accept one character at a time to store in each subscript of an array, with the help of a for loop =
 
 Syntax
 for(i = 0; i < 6; i++){
