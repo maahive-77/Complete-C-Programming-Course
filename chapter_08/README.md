@@ -2,8 +2,10 @@
 
 A String in C programming is a sequence of characters terminated with a null character ‘\0’. 
 The C String is stored as an array of characters. The difference between a character array and a C string is that the string in C is terminated with a unique character ‘\0’.
-
-![image](https://github.com/user-attachments/assets/ce75e4ae-526f-42f7-ae27-16ede6dd485a)
+ 
+    
+   ![image](https://github.com/user-attachments/assets/ce75e4ae-526f-42f7-ae27-16ede6dd485a) 
+   
 
 # Creating a String in C
 Let us create a string "Hello". It comprises five char values. In C, the literal representation of a char type uses single quote symbols − such as 'H'. These five alphabets put inside single quotes, followed by a null character represented by '\0' are assigned to an array of char types. The size of the array is five characters plus the null character − six.
