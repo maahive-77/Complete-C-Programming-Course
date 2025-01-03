@@ -55,9 +55,11 @@ int main() {
 
   return 0;
 }
+
 Output
 It will produce the following output −
 Hello World
+
 ---
 ## String Input Using scanf()
 Declaring a null-terminated string causes difficulty if you want to ask the user to input a string. 
@@ -88,6 +90,8 @@ Run the code and check its output −
 Starting typing... Hello
 Value of greeting: Hello
 
+---
+
 # Example
 It is not possible to input "\0" (the null string) because it is a non-printable character. To overcome this, the "%s" format specifier is used in the scanf() statement −
 
@@ -109,6 +113,7 @@ int main (){
 }
 
 Output
+
 Run the code and check its output −
 
 Enter a string:
