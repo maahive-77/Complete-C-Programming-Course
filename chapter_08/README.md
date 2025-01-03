@@ -25,13 +25,14 @@ int main (){
    char greeting[] = {'H', 'e', 'l', 'l', 'o', '\0'};
    printf("Greeting message: %s\n", greeting );
 
-   return 0;
+return 0;
+
 }
----
+
 Output
 It will produce the following output −
 Greeting message: Hello
-#
+
 ---
 You can declare an oversized array and assign less number of characters, to which the C compiler has no issues.
 However, if the size is less than the characters in the initialization, you may get garbage values in the output.
