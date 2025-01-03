@@ -58,7 +58,8 @@ The course is divided into structured chapters, each focusing on specific concep
 - Work with single-dimensional and multi-dimensional arrays.  
 - Access array elements using pointers.  
 
-### 🔹 **Chapter 8: Strings**  
+### 🔹 **Chapter 8: Strings in c ** 
+For more details on strings in C, refer to the [chapter 08 README](chapter_08/README.md).
 - Initialize and manipulate strings.  
 - Use standard library functions for string operations.  
 
