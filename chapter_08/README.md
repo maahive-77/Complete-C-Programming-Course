@@ -38,8 +38,11 @@ You can declare an oversized array and assign less number of characters, to whic
 However, if the size is less than the characters in the initialization, you may get garbage values in the output.
 
 char greeting[3] = {'H', 'e', 'l', 'l', 'o', '\0'};
+
 printf("%s", greeting);
+
 Constructing a String using Double Quotes
+
 Instead of constructing a char array of individual char values in single quotation marks, and using "\0" as the last element, C lets you construct a string by enclosing the characters within double quotation marks. This method of initializing a string is more convenient, as the compiler automatically adds "\0" as the last character.
 
 Example
@@ -65,12 +68,17 @@ Hello World
 Declaring a null-terminated string causes difficulty if you want to ask the user to input a string. 
 You can accept one character at a time to store in each subscript of an array, with the help of a for loop =
 
+
 Syntax
+
 for(i = 0; i < 6; i++){
+
    scanf("%c", &greeting[i]);
 }
 greeting[i] = '\0';
+
 Example
+
 In the following example, you can input a string using scanf() function, after inputting the specific characters (5 in the following example), we are assigning null ('\0') to terminate the string.
 
 printf("Starting typing... ");
@@ -87,7 +95,9 @@ printf("Value of greeting: %s\n", greeting);
 
  Output
 Run the code and check its output −
+
 Starting typing... Hello
+
 Value of greeting: Hello
 
 ---
