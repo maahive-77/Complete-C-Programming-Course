@@ -1,6 +1,7 @@
 # String Functions in C: `strlen`, `strcpy`, `strcat`
 
-![String Functions](strings_functions.jpg)
+![image](https://github.com/user-attachments/assets/44ac6daf-e96c-46ff-bc74-b02629f2bd0f)
+
 
 
 ## 1. **`strlen`**: Finds the Length of a String
