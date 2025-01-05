@@ -69,6 +69,7 @@ int main() {
         // Ask if the user wants to retry
         printf("Would you like to try again? (y/n): ");
         scanf(" %c", &retry);
+        printf("Thank you\n");
 
     } while (retry == 'y' || retry == 'Y');
 
