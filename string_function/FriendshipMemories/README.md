@@ -1,6 +1,7 @@
-GitHub stars badge: ![Stars](https://img.shields.io/github/stars/<maahive-77>/<repo-name>.svg)
+![Stars](https://img.shields.io/github/stars/maahive-77/FriendshipMemories.svg)
 
-License badge: ![License](https://img.shields.io/github/license/<maahine-77>/<repo-name>.svg)
+
+License badge: ![License](https://img.shields.io/github/license/maahine-77/FriendshipMemories.svg)
 
 # Friend List Access Program
 
