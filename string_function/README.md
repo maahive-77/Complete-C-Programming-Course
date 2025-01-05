@@ -1,6 +1,7 @@
 # String Functions in C: `strlen`, `strcpy`, `strcat`
 
-![String Functions](relative/path/to/strings_functions.jpg)
+![String Functions](strings_functions.jpg)
+
 
 ## 1. **`strlen`**: Finds the Length of a String
 - **Use**: Returns the number of characters in a string **excluding the null terminator (`\0`)**.
