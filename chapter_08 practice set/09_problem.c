@@ -7,7 +7,7 @@ int main()
     char c = 'd';
     int contains = 0;
     char str[] = "Maahi";
-    for (int i = 0; i < 56; i++)
+    for (int i = 0; i < 10; i++)
     {
         printf("This is a nice character  \n");
     }
