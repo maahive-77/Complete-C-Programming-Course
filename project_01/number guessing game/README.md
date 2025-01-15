@@ -1,4 +1,4 @@
-# Number Guessing Game (README.md)
+# Number Guessing Game
 
 ## Introduction
 Yeh ek "Number Guessing Game" hai jo C programming language me banaya gaya hai. Is game me player ko ek random number guess karna hota hai jo computer generate karta hai. Har guess ke baad player ko feedback diya jata hai ki unka guess correct hai ya nahi, aur agar galat hai to higher ya lower number ki taraf guide kiya jata hai.
