@@ -1,4 +1,4 @@
-# Snake, Water, Gun Game (README.md)
+# Snake, Water, Gun Game 
 
 ## Introduction
 Yeh ek simple "Snake, Water, Gun" game hai jo C programming language me banaya gaya hai. Is game me player aur computer ek choice dete hain, aur fir winner ko decide kiya jata hai according to predefined rules:
