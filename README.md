@@ -111,10 +111,10 @@ Work on projects to apply what you've learned.
 🔎 Find This Repository Easily
 If you're looking for:
 
-✅ Complete C Programming Course
-✅ C Source Code & Projects
-✅ Learn C from Scratch
-✅ C Programming Examples & Exercises
+✅ Complete C Programming Course.
+✅ C Source Code & Projects.
+✅ Learn C from Scratch.
+✅ C Programming Examples & Exercises.
 
 Then this repository is exactly what you need! 🚀
 
