@@ -1,5 +1,7 @@
 <head><meta name="google-site-verification" content="5IN2gLTAdxpBihliJhmrsRmVkYbPptsIWYdjGFfGP2g" /></head>
-![image](https://github.com/user-attachments/assets/3bdac2de-a99e-4ea8-8415-ad257b933091)
+![image](https://github.com/user-attachments/assets/4ff37e04-24af-42a4-9415-ef01392bb344)
+
+
 
 # 🔥 Complete C Programming Course – Source Code, Projects, & Exercises 🔥  
 
