@@ -114,9 +114,14 @@ If you're looking for:
 ✅ C Source Code & Projects
 ✅ Learn C from Scratch
 ✅ C Programming Examples & Exercises
+
 Then this repository is exactly what you need! 🚀
+
 🌟 Don't forget to STAR ⭐ the repository if you find it useful! 🌟
 
+---
 📢 Contribute & Support
 If you want to improve this repo or add more projects, feel free to contribute! Fork this repo, make changes, and submit a pull request. 😊
+---
 🔗 GitHub Repository: [ Complete C Programming Course](https://github.com/maahive-77/C-language)
+---
