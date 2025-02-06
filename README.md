@@ -1,3 +1,4 @@
+<head><meta name="google-site-verification" content="5IN2gLTAdxpBihliJhmrsRmVkYbPptsIWYdjGFfGP2g" /></head>
 # 🔥 Complete C Programming Course – Source Code, Projects, & Exercises 🔥  
 
 Welcome to the **Complete C Programming Course**! 🎉  
@@ -5,7 +6,6 @@ If you're looking for **C programming source code, projects, and exercises**, yo
 This repository will help you **learn C from scratch**, covering everything from **basic concepts** to **advanced projects**.  
 
 ---
-<head><meta name="google-site-verification" content="5IN2gLTAdxpBihliJhmrsRmVkYbPptsIWYdjGFfGP2g" /></head>
 
 ## 📚 **Table of Contents**
 1. [Introduction](#introduction)  
