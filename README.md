@@ -103,7 +103,7 @@ Each chapter includes thoughtfully designed problem sets to:
 ## 🚀 **How to Use This Repository**
 1. Clone the repository to your local machine using:  
    ''bash
-   git clone https://github.com/maahive-77/C-language.git
+   git clone https://github.com/maahive-77/Complete-C-Programming-Course.git
 Explore the chapter-wise folders to learn different topics.
 Try solving problem sets to practice your skills.
 Work on projects to apply what you've learned.
@@ -124,5 +124,5 @@ Then this repository is exactly what you need! 🚀
 📢 Contribute & Support
 If you want to improve this repo or add more projects, feel free to contribute! Fork this repo, make changes, and submit a pull request. 😊
 ---
-🔗 GitHub Repository: [ Complete C Programming Course](https://github.com/maahive-77/C-language)
+🔗 GitHub Repository: [ Complete C Programming Course](https://github.com/maahive-77/Complete-C-Programming-Course)
 ---
